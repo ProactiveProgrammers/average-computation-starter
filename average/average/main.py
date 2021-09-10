@@ -45,13 +45,10 @@ def average(
     # TODO: create a console for rich text output
     # TODO: create the full name of the file
     # TODO: display a message to explain the file that will be input
-    # the file is valid and so the program should compute the average of its numbers
-    if confirm_valid_file(file_fully_qualified):
-        # TODO: read in the contents of the file
-        # TODO: compute the average of all the numbers inside of the file
-        average_value = compute_average(contents_text)
-        # TODO: display all of the output in a fashion that fits the expected output,
-        # making sure to include the computed average value of the numbers in the file
+    # TODO: the file is valid and so the program should compute the average of its numbers
+    # --> TODO: read in the contents of the file
+    # --> TODO: compute the average of all the numbers inside of the file
+    # --> TODO: display all of the output in a fashion that fits the expected output,
+    # making sure to include the computed average value of the numbers in the file
     # the file was not valid and thus you cannot install it
-    else:
-        # TODO: indicate in the console that the provided file was not valid
+    # --> TODO: indicate in the console that the provided file was not valid
