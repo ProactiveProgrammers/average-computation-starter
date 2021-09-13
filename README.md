@@ -1,7 +1,7 @@
 # Average Computation
 
 ## Assigned: Friday, September 10, 2021
-## Due: Friday, September 13, 2021
+## Due: Monday, September 13, 2021
 
 After cloning this repository to your computer, please take the following steps:
 
