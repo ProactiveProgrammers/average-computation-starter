@@ -1,5 +1,14 @@
 # Average Computation
 
+TODO: Make sure that you delete all of the TODO markers from this file and
+either rephrase or delete all of the prompts that go along with them. When you
+are finished answering all of the questions in this file, you should make sure
+that you have a complete and polished document.
+
+TODO: Make sure that you write descriptive commit messages that clearly explain
+the way in which you are modifying the source code and technical writing in
+your GitHub repository.
+
 ## Add Your Name Here
 
 ## Program Output
