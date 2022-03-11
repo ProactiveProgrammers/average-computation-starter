@@ -45,4 +45,4 @@ writing/reflection.md:
 CountCommits --count 5
 
 # --> check that the main command produces the correct number of output lines
-CountCommandOutput --command "cd average; poetry install; poetry run average --dir input --file numbers.txt; cd .." --count 6 --exact
+# CountCommandOutput --command "cd average; poetry install; poetry run average --dir input --file numbers.txt; cd .." --count 6 --exact
