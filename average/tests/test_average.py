@@ -4,6 +4,11 @@ from average import __version__
 
 from average import main
 
+# TODO: Make sure that you understand how each of these test cases work
+
+# TODO: Make sure that you run this test suite to better establish a
+# confidence in its correctness
+
 
 def test_version():
     """Confirm that the version of the program is correct."""
