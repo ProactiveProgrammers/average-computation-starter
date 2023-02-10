@@ -1,10 +1,6 @@
 """Perform average computation for numbers in a single input file."""
 
-from rich.console import Console
-
-from pathlib import Path
-
-import typer
+# TODO: Add all of the required inputs at the top of this file
 
 # create a Typer object to support the command-line interface
 cli = typer.Typer()
